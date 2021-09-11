@@ -127,6 +127,21 @@ The known bugs are marked by `BUG` in the comments.
 
 Distributed under the *GNU General Public License*. See `LICENSE` for more information.
 
+## Citing
+
+```tex
+@software{chenzs108_2021_5501128,
+  author       = {Chenzs108 and Liugw},
+  title        = {czs108/Goasm-RAT: v1.0.0-beta},
+  month        = sep,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v1.0.0-beta},
+  doi          = {10.5281/zenodo.5501128},
+  url          = {https://doi.org/10.5281/zenodo.5501128}
+}
+```
+
 ## Contact
 
 - ***Chenzs108***

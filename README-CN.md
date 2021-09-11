@@ -126,6 +126,21 @@ sc
 
 使用*GNU General Public*协议，请参考`LICENSE`文件。
 
+## 引用
+
+```tex
+@software{chenzs108_2021_5501128,
+  author       = {Chenzs108 and Liugw},
+  title        = {czs108/Goasm-RAT: v1.0.0-beta},
+  month        = sep,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v1.0.0-beta},
+  doi          = {10.5281/zenodo.5501128},
+  url          = {https://doi.org/10.5281/zenodo.5501128}
+}
+```
+
 ## 作者
 
 - ***Chenzs108***
